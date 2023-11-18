@@ -75,7 +75,7 @@ Resultado da Requisição POST: { nome: 'John Doe', idade: 30 }
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas ou enviar solicitações de pull no [repositório GitHub](https://github.com/seu-usuario/intapi).
+Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas ou enviar solicitações de pull no [repositório GitHub](https://github.com/DsK-David/intapi).
 
 ## Licença
 
